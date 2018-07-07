@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1530973623 source:c:\users\chwnrui\documents\candc++\competition\fun.cpp
+	"head.h"
+
+1530973678 source:c:\users\chwnrui\documents\candc++\competition\main.cpp
+	"head.h"
+
+1530973577 c:\users\chwnrui\documents\candc++\competition\head.h
+	<iostream>
+
