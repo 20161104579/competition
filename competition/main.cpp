@@ -3,12 +3,15 @@
 int main()
 {
     int flag;
+    entertain team;
+
 
     while(menu(),cout<<"输入功能代表的数字："<<endl,cin>>flag)
     {
         switch(flag)
         {
         case 1:
+            team.getScore();
             break;
         case 2:
             break;
